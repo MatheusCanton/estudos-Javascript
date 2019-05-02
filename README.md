@@ -1,6 +1,6 @@
 # Exercício de JavaScript
 
-Para treinar o JavaScript de vocês, vamos desenvolver uma calculadora em JavaScript.
+Para treinar o JavaScript, vamos desenvolver uma calculadora em JavaScript.
 
 ## Como Fazer
 
@@ -23,14 +23,3 @@ Os seguintes requisitos devem ser levados em consideração para a calculadora:
  * Se houver o primeiro número e a operação, sem o segundo número, o botão igual deve colocar uma mensagem de erro no resultado: _Erro de operação_.
  * O ponto (.) só pode ser adicionado uma vez por número.
 
-## Informações adicionais
-
-Como os scripts precisarão do DOM carregado, não esqueçam de usar a palavra chave _defer_.
-
-Strings no JavaScript são como vetores, podemos acessar letra a letra pelo seu índice.
-
-Algumas funções podem ser interessantes para o exercício (pesquisem!):
- * isNaN(): diz se uma expressão é um número ou não.
- * parseInt(): transforma uma String em inteiro.
- * parseFloat(): transforma uma String em um decimal.
- * substring(): devolve parte de uma String, baseado no índice passado.
